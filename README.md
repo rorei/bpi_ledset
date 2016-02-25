@@ -23,7 +23,7 @@ Alternatively, a simple Makefile is provided; so you may also just use
 instead. The Makefile also supports cross-compilation,
 given that you specify a proper toolchain prefix, e.g.
 
-`make CROSS_COMPILE=armv7a-hardfloat-linux-gnueabi`
+`make CROSS_COMPILE=armv7a-hardfloat-linux-gnueabi-`
 
 
 Installation
